@@ -1,2 +1,3 @@
 # test_cur
 just a quick test repository
+this repo is just to quickly test github functionality...
